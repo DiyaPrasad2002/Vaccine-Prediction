@@ -1,2 +1,2 @@
 # Vaccination Prediction
-This repository is created for the hackaton conducted by the Consulting and Analytics Club of IITG. The training and testing data are uploaded as CSV files. The submission CSV for the probabilities is also submitted as a CSV file.
+This repository is created for the hackaton conducted by the Consulting and Analytics Club of IITG. It consists of only the CSV file with the respective probabilities of the test data set provided for the hackathon.
